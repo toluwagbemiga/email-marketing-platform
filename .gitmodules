@@ -1,0 +1,9 @@
+[submodule "laravel-email-marketing"]
+	path = laravel-email-marketing
+	url = https://github.com/toluwagbemiga/laravel-email-marketing.git
+[submodule "nestjs-email-marketing"]
+	path = nestjs-email-marketing
+	url = https://github.com/toluwagbemiga/nestjs-email-marketing.git
+[submodule "react-marketing-dashboard"]
+	path = react-marketing-dashboard
+	url = https://github.com/toluwagbemiga/react-email-marketing-dashboard.git
